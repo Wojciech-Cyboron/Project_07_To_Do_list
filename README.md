@@ -1,1 +1,2 @@
-# Project_07_To_Do_list
+# Project
+Short "To do list" project for learning JS
